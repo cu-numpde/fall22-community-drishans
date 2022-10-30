@@ -17,9 +17,9 @@
 | Where do development discussions take place? |  GitHub issues, [discussion forum](http://www.elmerfem.org/forum)  |
 | Typical number of emails/comments per week? |  >20  |
 | Typical number of commits per week? |  14  |
-| Typical commit size |  1 or 2 file changes and 2:1 insersion:deletion ratio on average, large 20-100 file change commits on occasion  |
+| Typical commit size |  1 or 2 file changes, large 20-100 file change commits after 10-20 small commits  |
 | How does the project accept contributions? |  pull requests, email  |
-| Does the project have an automated test suite? |  no  |
+| Does the project have an automated test suite? |  yes  |
 | Does the project use continuous integration? |  yes  |
 | Are any legal/licensing steps required to contribute? |  yes  |
 
@@ -29,6 +29,9 @@
 - [x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
+
+Note: the test suite is obsolete
+
 
 ### Notes/concerns/risks
 
